@@ -1,0 +1,728 @@
+free=1, 3343668
+free=0, 107395
+genre=Education, 386518
+genre=Business, 249219
+genre=Tools, 235917
+genre=Music & Audio, 216562
+genre=Entertainment, 210275
+genre=Lifestyle, 164700
+genre=Shopping, 160889
+genre=Productivity, 147613
+genre=Books & Reference, 142158
+genre=Food & Drink, 124373
+genre=Finance, 105199
+genre=Personalization, 99642
+genre=Travel & Local, 89928
+genre=Casual, 86500
+genre=Communication, 80046
+genre=Arcade, 78113
+genre=Puzzle, 76493
+genre=Sports, 70534
+genre=Social, 69301
+genre=News & Magazines, 52526
+genre=Medical, 51940
+genre=Maps & Navigation, 42378
+genre=Action, 42229
+genre=Photography, 41199
+genre=Health & Fitness, 37912
+genre=Auto & Vehicles, 36557
+genre=Simulation, 34938
+genre=Adventure, 32070
+genre=Educational, 31749
+genre=Art & Design, 26017
+genre=Beauty, 23224
+genre=Events, 21994
+genre=Trivia, 18133
+genre=Role Playing, 16815
+genre=Video Players & Editors, 16813
+genre=Strategy, 15116
+genre=Board, 14853
+genre=Racing, 14562
+genre=Word, 14162
+genre=Card, 11448
+genre=Weather, 9618
+genre=Dating, 9530
+genre=House & Home, 9075
+genre=Casino, 8476
+genre=Music, 7544
+genre=Libraries & Demo, 6917
+genre=Parenting, 5986
+genre=Comics, 3302
+releasedYear=2021, 717334
+releasedYear=2020, 697723
+releasedYear=2022, 587039
+releasedYear=2019, 515625
+releasedYear=2018, 299233
+releasedYear=2017, 218829
+releasedYear=2016, 145810
+releasedYear=2015, 105278
+releasedYear=2014, 72689
+releasedYear=2013, 44894
+releasedYear=2012, 26854
+releasedYear=2011, 14923
+releasedYear=2010, 4727
+releasedYear=2009, 105
+free=1; genre=Education, 371491
+free=1; genre=Business, 247430
+free=1; genre=Tools, 227108
+free=1; genre=Music & Audio, 213416
+free=1; genre=Entertainment, 205872
+free=1; genre=Lifestyle, 161959
+free=1; genre=Shopping, 160615
+free=1; genre=Productivity, 143604
+free=1; genre=Books & Reference, 133487
+free=1; genre=Food & Drink, 123742
+free=1; genre=Finance, 103708
+free=1; genre=Travel & Local, 87419
+free=1; genre=Casual, 84637
+free=1; genre=Personalization, 80108
+free=1; genre=Communication, 78891
+free=1; genre=Arcade, 75968
+free=1; genre=Puzzle, 73499
+free=1; genre=Social, 68772
+free=1; genre=Sports, 67702
+free=1; genre=News & Magazines, 52314
+free=1; genre=Medical, 49660
+free=1; genre=Maps & Navigation, 40922
+free=1; genre=Action, 40752
+free=1; genre=Photography, 40105
+free=1; genre=Auto & Vehicles, 35882
+free=1; genre=Health & Fitness, 35283
+free=1; genre=Simulation, 33808
+free=1; genre=Adventure, 30124
+free=1; genre=Educational, 29253
+free=1; genre=Art & Design, 25253
+free=1; genre=Beauty, 23143
+free=1; genre=Events, 21917
+free=0; genre=Personalization, 19534
+free=1; genre=Trivia, 17771
+free=1; genre=Video Players & Editors, 16246
+free=1; genre=Role Playing, 15779
+free=0; genre=Education, 15027
+free=1; genre=Strategy, 14275
+free=1; genre=Racing, 14216
+free=1; genre=Board, 14101
+free=1; genre=Word, 13738
+free=1; genre=Card, 10894
+free=1; genre=Dating, 9461
+free=1; genre=Weather, 9287
+free=1; genre=House & Home, 8889
+free=0; genre=Tools, 8809
+free=0; genre=Books & Reference, 8671
+free=1; genre=Casino, 8121
+free=1; genre=Music, 7341
+free=1; genre=Libraries & Demo, 6783
+free=1; genre=Parenting, 5782
+free=0; genre=Entertainment, 4403
+free=0; genre=Productivity, 4009
+free=0; genre=Music & Audio, 3146
+free=1; genre=Comics, 3140
+free=0; genre=Puzzle, 2994
+free=0; genre=Sports, 2832
+free=0; genre=Lifestyle, 2741
+free=0; genre=Health & Fitness, 2629
+free=0; genre=Travel & Local, 2509
+free=0; genre=Educational, 2496
+free=0; genre=Medical, 2280
+free=0; genre=Arcade, 2145
+free=0; genre=Adventure, 1946
+free=0; genre=Casual, 1863
+free=0; genre=Business, 1789
+free=0; genre=Finance, 1491
+free=0; genre=Action, 1477
+free=0; genre=Maps & Navigation, 1456
+free=0; genre=Communication, 1155
+free=0; genre=Simulation, 1130
+free=0; genre=Photography, 1094
+free=0; genre=Role Playing, 1036
+free=0; genre=Strategy, 841
+free=0; genre=Art & Design, 764
+free=0; genre=Board, 752
+free=0; genre=Auto & Vehicles, 675
+free=0; genre=Food & Drink, 631
+free=0; genre=Video Players & Editors, 567
+free=0; genre=Card, 554
+free=0; genre=Social, 529
+free=0; genre=Word, 424
+free=0; genre=Trivia, 362
+free=0; genre=Casino, 355
+free=0; genre=Racing, 346
+free=0; genre=Weather, 331
+free=0; genre=Shopping, 274
+free=0; genre=News & Magazines, 212
+free=0; genre=Parenting, 204
+free=0; genre=Music, 203
+free=0; genre=House & Home, 186
+free=0; genre=Comics, 162
+free=0; genre=Libraries & Demo, 134
+free=0; genre=Beauty, 81
+free=0; genre=Events, 77
+free=0; genre=Dating, 69
+free=1; minInstalls=100, 682870
+free=1; minInstalls=10, 535058
+free=1; minInstalls=1000, 529924
+free=1; minInstalls=10000, 296029
+free=1; minInstalls=50, 286389
+free=1; minInstalls=500, 269093
+free=1; minInstalls=5000, 173859
+free=1; minInstalls=5, 138560
+free=1; minInstalls=1, 121027
+free=1; minInstalls=100000, 120993
+free=1; minInstalls=50000, 83369
+free=1; minInstalls=1000000, 37999
+free=1; minInstalls=500000, 29634
+free=0; minInstalls=10, 22409
+free=1; minInstalls=0, 21583
+free=0; minInstalls=100, 18174
+free=0; minInstalls=1, 17153
+free=0; minInstalls=5, 9139
+free=0; minInstalls=1000, 8973
+free=0; minInstalls=50, 8899
+free=0; minInstalls=0, 8644
+free=1; minInstalls=5000000, 7780
+free=1; minInstalls=10000000, 7609
+free=0; minInstalls=500, 5589
+free=0; minInstalls=10000, 3817
+free=0; minInstalls=5000, 2560
+free=1; minInstalls=50000000, 1016
+free=0; minInstalls=100000, 937
+free=0; minInstalls=50000, 823
+free=1; minInstalls=100000000, 703
+free=0; minInstalls=500000, 155
+free=0; minInstalls=1000000, 112
+free=1; minInstalls=500000000, 81
+free=1; minInstalls=1000000000, 73
+free=1; minInstalls=5000000000, 12
+free=0; minInstalls=5000000, 7
+free=1; minInstalls=10000000000, 7
+free=0; minInstalls=10000000, 4
+free=1; ratings=(-0.001, 1.0]; reviews=(-0.001, 1.0]; score=(-0.001, 1.0], 2916111
+free=0; ratings=(-0.001, 1.0]; reviews=(-0.001, 1.0]; score=(-0.001, 1.0], 88753
+free=1; ratings=(100.0, 1000.0]; reviews=(10.0, 50.0]; score=(4.0, 5.0], 26630
+free=1; ratings=(100.0, 1000.0]; reviews=(1.0, 5.0]; score=(4.0, 5.0], 23297
+free=1; ratings=(10.0, 50.0]; reviews=(1.0, 5.0]; score=(4.0, 5.0], 17318
+free=1; ratings=(100.0, 1000.0]; reviews=(10.0, 50.0]; score=(3.0, 4.0], 16803
+free=1; ratings=(1000.0, 10000.0]; reviews=(10.0, 50.0]; score=(4.0, 5.0], 16615
+free=1; ratings=(1000.0, 10000.0]; reviews=(100.0, 1000.0]; score=(4.0, 5.0], 16247
+free=1; ratings=(100.0, 1000.0]; reviews=(1.0, 5.0]; score=(3.0, 4.0], 14988
+free=1; ratings=(100.0, 1000.0]; reviews=(5.0, 10.0]; score=(4.0, 5.0], 14871
+free=1; ratings=(10000.0, inf]; reviews=(100.0, 1000.0]; score=(4.0, 5.0], 11093
+free=1; ratings=(100.0, 1000.0]; reviews=(5.0, 10.0]; score=(3.0, 4.0], 10405
+free=1; ratings=(10.0, 50.0]; reviews=(1.0, 5.0]; score=(3.0, 4.0], 10357
+free=1; ratings=(10000.0, inf]; reviews=(1000.0, 10000.0]; score=(4.0, 5.0], 10084
+free=1; ratings=(1000.0, 10000.0]; reviews=(10.0, 50.0]; score=(3.0, 4.0], 9972
+free=1; ratings=(10.0, 50.0]; reviews=(5.0, 10.0]; score=(4.0, 5.0], 9618
+free=1; ratings=(5.0, 10.0]; reviews=(1.0, 5.0]; score=(4.0, 5.0], 8441
+free=1; ratings=(50.0, 100.0]; reviews=(1.0, 5.0]; score=(4.0, 5.0], 8122
+free=1; ratings=(1000.0, 10000.0]; reviews=(50.0, 100.0]; score=(4.0, 5.0], 7911
+free=1; ratings=(1000.0, 10000.0]; reviews=(100.0, 1000.0]; score=(3.0, 4.0], 7344
+free=1; ratings=(100.0, 1000.0]; reviews=(-0.001, 1.0]; score=(4.0, 5.0], 6529
+free=1; ratings=(100.0, 1000.0]; reviews=(50.0, 100.0]; score=(4.0, 5.0], 6449
+free=1; ratings=(1000.0, 10000.0]; reviews=(1.0, 5.0]; score=(4.0, 5.0], 6272
+free=1; ratings=(50.0, 100.0]; reviews=(10.0, 50.0]; score=(4.0, 5.0], 6143
+free=1; ratings=(50.0, 100.0]; reviews=(1.0, 5.0]; score=(3.0, 4.0], 5974
+free=1; ratings=(10.0, 50.0]; reviews=(5.0, 10.0]; score=(3.0, 4.0], 5522
+free=1; ratings=(10.0, 50.0]; reviews=(-0.001, 1.0]; score=(4.0, 5.0], 5448
+free=1; ratings=(10.0, 50.0]; reviews=(10.0, 50.0]; score=(4.0, 5.0], 5328
+free=1; ratings=(1000.0, 10000.0]; reviews=(5.0, 10.0]; score=(4.0, 5.0], 5204
+free=1; ratings=(100.0, 1000.0]; reviews=(1.0, 5.0]; score=(2.0, 3.0], 4865
+free=1; ratings=(100.0, 1000.0]; reviews=(100.0, 1000.0]; score=(4.0, 5.0], 4747
+free=1; ratings=(10000.0, inf]; reviews=(100.0, 1000.0]; score=(3.0, 4.0], 4411
+free=1; ratings=(1000.0, 10000.0]; reviews=(50.0, 100.0]; score=(3.0, 4.0], 4397
+free=1; ratings=(100.0, 1000.0]; reviews=(10.0, 50.0]; score=(2.0, 3.0], 4396
+free=1; ratings=(50.0, 100.0]; reviews=(5.0, 10.0]; score=(4.0, 5.0], 4140
+free=1; ratings=(10.0, 50.0]; reviews=(1.0, 5.0]; score=(2.0, 3.0], 4018
+free=1; ratings=(50.0, 100.0]; reviews=(10.0, 50.0]; score=(3.0, 4.0], 3999
+free=1; ratings=(5.0, 10.0]; reviews=(1.0, 5.0]; score=(3.0, 4.0], 3607
+free=1; ratings=(10.0, 50.0]; reviews=(10.0, 50.0]; score=(3.0, 4.0], 3509
+free=1; ratings=(100.0, 1000.0]; reviews=(50.0, 100.0]; score=(3.0, 4.0], 3434
+free=1; ratings=(100.0, 1000.0]; reviews=(5.0, 10.0]; score=(2.0, 3.0], 3421
+free=1; ratings=(1000.0, 10000.0]; reviews=(1.0, 5.0]; score=(3.0, 4.0], 3398
+free=1; ratings=(10000.0, inf]; reviews=(10000.0, inf]; score=(4.0, 5.0], 3237
+free=1; ratings=(10000.0, inf]; reviews=(10.0, 50.0]; score=(4.0, 5.0], 3135
+free=1; ratings=(1000.0, 10000.0]; reviews=(5.0, 10.0]; score=(3.0, 4.0], 3110
+free=1; ratings=(100.0, 1000.0]; reviews=(-0.001, 1.0]; score=(3.0, 4.0], 3052
+free=1; ratings=(50.0, 100.0]; reviews=(5.0, 10.0]; score=(3.0, 4.0], 2969
+free=1; ratings=(50.0, 100.0]; reviews=(-0.001, 1.0]; score=(4.0, 5.0], 2853
+free=1; ratings=(5.0, 10.0]; reviews=(-0.001, 1.0]; score=(4.0, 5.0], 2850
+free=1; ratings=(10000.0, inf]; reviews=(1000.0, 10000.0]; score=(3.0, 4.0], 2552
+free=1; ratings=(10.0, 50.0]; reviews=(-0.001, 1.0]; score=(3.0, 4.0], 2542
+free=1; ratings=(10.0, 50.0]; reviews=(5.0, 10.0]; score=(2.0, 3.0], 2501
+free=1; ratings=(50.0, 100.0]; reviews=(1.0, 5.0]; score=(2.0, 3.0], 2361
+free=0; ratings=(100.0, 1000.0]; reviews=(10.0, 50.0]; score=(4.0, 5.0], 2302
+free=1; ratings=(100.0, 1000.0]; reviews=(100.0, 1000.0]; score=(3.0, 4.0], 2280
+free=1; ratings=(10.0, 50.0]; reviews=(10.0, 50.0]; score=(2.0, 3.0], 2160
+free=1; ratings=(1.0, 5.0]; reviews=(1.0, 5.0]; score=(4.0, 5.0], 1993
+free=1; ratings=(10000.0, inf]; reviews=(50.0, 100.0]; score=(4.0, 5.0], 1913
+free=0; ratings=(10.0, 50.0]; reviews=(1.0, 5.0]; score=(4.0, 5.0], 1779
+free=1; ratings=(1000.0, 10000.0]; reviews=(-0.001, 1.0]; score=(4.0, 5.0], 1730
+free=1; ratings=(1000.0, 10000.0]; reviews=(1000.0, 10000.0]; score=(4.0, 5.0], 1694
+free=1; ratings=(5.0, 10.0]; reviews=(1.0, 5.0]; score=(2.0, 3.0], 1669
+free=1; ratings=(1000.0, 10000.0]; reviews=(10.0, 50.0]; score=(2.0, 3.0], 1603
+free=1; ratings=(50.0, 100.0]; reviews=(-0.001, 1.0]; score=(3.0, 4.0], 1531
+free=1; ratings=(50.0, 100.0]; reviews=(10.0, 50.0]; score=(2.0, 3.0], 1478
+free=1; ratings=(10000.0, inf]; reviews=(10.0, 50.0]; score=(3.0, 4.0], 1459
+free=1; ratings=(1000.0, 10000.0]; reviews=(100.0, 1000.0]; score=(2.0, 3.0], 1341
+free=1; ratings=(100.0, 1000.0]; reviews=(50.0, 100.0]; score=(2.0, 3.0], 1209
+free=1; ratings=(1.0, 5.0]; reviews=(-0.001, 1.0]; score=(4.0, 5.0], 1174
+free=1; ratings=(10.0, 50.0]; reviews=(1.0, 5.0]; score=(1.0, 2.0], 1172
+free=1; ratings=(50.0, 100.0]; reviews=(5.0, 10.0]; score=(2.0, 3.0], 1131
+free=1; ratings=(5.0, 10.0]; reviews=(5.0, 10.0]; score=(4.0, 5.0], 1126
+free=0; ratings=(10.0, 50.0]; reviews=(5.0, 10.0]; score=(4.0, 5.0], 1101
+free=1; ratings=(100.0, 1000.0]; reviews=(100.0, 1000.0]; score=(2.0, 3.0], 1076
+free=0; ratings=(1000.0, 10000.0]; reviews=(100.0, 1000.0]; score=(4.0, 5.0], 1075
+free=1; ratings=(100.0, 1000.0]; reviews=(1.0, 5.0]; score=(1.0, 2.0], 1023
+free=1; ratings=(100.0, 1000.0]; reviews=(10.0, 50.0]; score=(1.0, 2.0], 921
+free=1; ratings=(10.0, 50.0]; reviews=(10.0, 50.0]; score=(1.0, 2.0], 898
+free=1; ratings=(10000.0, inf]; reviews=(1.0, 5.0]; score=(4.0, 5.0], 870
+free=0; ratings=(100.0, 1000.0]; reviews=(50.0, 100.0]; score=(4.0, 5.0], 831
+free=1; ratings=(10000.0, inf]; reviews=(5.0, 10.0]; score=(4.0, 5.0], 829
+free=1; ratings=(10000.0, inf]; reviews=(50.0, 100.0]; score=(3.0, 4.0], 823
+free=0; ratings=(50.0, 100.0]; reviews=(10.0, 50.0]; score=(4.0, 5.0], 820
+free=1; ratings=(10.0, 50.0]; reviews=(5.0, 10.0]; score=(1.0, 2.0], 820
+free=1; ratings=(1000.0, 10000.0]; reviews=(1.0, 5.0]; score=(2.0, 3.0], 782
+free=1; ratings=(100.0, 1000.0]; reviews=(5.0, 10.0]; score=(1.0, 2.0], 727
+free=0; ratings=(100.0, 1000.0]; reviews=(10.0, 50.0]; score=(3.0, 4.0], 720
+free=0; ratings=(10.0, 50.0]; reviews=(1.0, 5.0]; score=(3.0, 4.0], 690
+free=1; ratings=(1000.0, 10000.0]; reviews=(5.0, 10.0]; score=(2.0, 3.0], 690
+free=1; ratings=(5.0, 10.0]; reviews=(-0.001, 1.0]; score=(3.0, 4.0], 687
+free=1; ratings=(1000.0, 10000.0]; reviews=(-0.001, 1.0]; score=(3.0, 4.0], 666
+free=1; ratings=(1000.0, 10000.0]; reviews=(50.0, 100.0]; score=(2.0, 3.0], 657
+free=1; ratings=(1.0, 5.0]; reviews=(1.0, 5.0]; score=(3.0, 4.0], 650
+free=1; ratings=(5.0, 10.0]; reviews=(1.0, 5.0]; score=(1.0, 2.0], 598
+free=1; ratings=(10.0, 50.0]; reviews=(-0.001, 1.0]; score=(2.0, 3.0], 580
+free=1; ratings=(50.0, 100.0]; reviews=(1.0, 5.0]; score=(1.0, 2.0], 579
+free=1; ratings=(100.0, 1000.0]; reviews=(-0.001, 1.0]; score=(2.0, 3.0], 576
+free=1; ratings=(1000.0, 10000.0]; reviews=(1000.0, 10000.0]; score=(3.0, 4.0], 561
+free=0; ratings=(50.0, 100.0]; reviews=(5.0, 10.0]; score=(4.0, 5.0], 534
+free=0; ratings=(10.0, 50.0]; reviews=(5.0, 10.0]; score=(3.0, 4.0], 489
+free=1; ratings=(5.0, 10.0]; reviews=(5.0, 10.0]; score=(2.0, 3.0], 479
+free=0; ratings=(100.0, 1000.0]; reviews=(100.0, 1000.0]; score=(4.0, 5.0], 473
+free=0; ratings=(100.0, 1000.0]; reviews=(5.0, 10.0]; score=(4.0, 5.0], 465
+free=1; ratings=(1.0, 5.0]; reviews=(1.0, 5.0]; score=(2.0, 3.0], 461
+free=1; ratings=(10000.0, inf]; reviews=(100.0, 1000.0]; score=(2.0, 3.0], 459
+free=0; ratings=(10.0, 50.0]; reviews=(10.0, 50.0]; score=(4.0, 5.0], 453
+free=1; ratings=(5.0, 10.0]; reviews=(5.0, 10.0]; score=(3.0, 4.0], 433
+free=1; ratings=(10000.0, inf]; reviews=(10000.0, inf]; score=(3.0, 4.0], 425
+free=0; ratings=(5.0, 10.0]; reviews=(1.0, 5.0]; score=(4.0, 5.0], 423
+free=0; ratings=(50.0, 100.0]; reviews=(1.0, 5.0]; score=(4.0, 5.0], 419
+free=1; ratings=(10000.0, inf]; reviews=(1.0, 5.0]; score=(3.0, 4.0], 395
+free=1; ratings=(100.0, 1000.0]; reviews=(100.0, 1000.0]; score=(1.0, 2.0], 382
+free=1; ratings=(10000.0, inf]; reviews=(5.0, 10.0]; score=(3.0, 4.0], 359
+free=1; ratings=(50.0, 100.0]; reviews=(10.0, 50.0]; score=(1.0, 2.0], 359
+free=1; ratings=(5.0, 10.0]; reviews=(5.0, 10.0]; score=(1.0, 2.0], 358
+free=0; ratings=(50.0, 100.0]; reviews=(10.0, 50.0]; score=(3.0, 4.0], 342
+free=1; ratings=(50.0, 100.0]; reviews=(5.0, 10.0]; score=(1.0, 2.0], 321
+free=0; ratings=(1000.0, 10000.0]; reviews=(100.0, 1000.0]; score=(3.0, 4.0], 318
+free=1; ratings=(50.0, 100.0]; reviews=(-0.001, 1.0]; score=(2.0, 3.0], 302
+free=1; ratings=(100.0, 1000.0]; reviews=(50.0, 100.0]; score=(1.0, 2.0], 289
+free=0; ratings=(100.0, 1000.0]; reviews=(1.0, 5.0]; score=(4.0, 5.0], 287
+free=0; ratings=(100.0, 1000.0]; reviews=(50.0, 100.0]; score=(3.0, 4.0], 275
+free=0; ratings=(10.0, 50.0]; reviews=(-0.001, 1.0]; score=(4.0, 5.0], 268
+free=0; ratings=(10000.0, inf]; reviews=(1000.0, 10000.0]; score=(4.0, 5.0], 258
+free=0; ratings=(10.0, 50.0]; reviews=(10.0, 50.0]; score=(3.0, 4.0], 245
+free=0; ratings=(100.0, 1000.0]; reviews=(5.0, 10.0]; score=(3.0, 4.0], 238
+free=1; ratings=(10000.0, inf]; reviews=(1000.0, 10000.0]; score=(2.0, 3.0], 228
+free=0; ratings=(50.0, 100.0]; reviews=(5.0, 10.0]; score=(3.0, 4.0], 217
+free=1; ratings=(1.0, 5.0]; reviews=(-0.001, 1.0]; score=(3.0, 4.0], 217
+free=0; ratings=(1000.0, 10000.0]; reviews=(50.0, 100.0]; score=(4.0, 5.0], 214
+free=1; ratings=(10000.0, inf]; reviews=(-0.001, 1.0]; score=(4.0, 5.0], 214
+free=1; ratings=(1000.0, 10000.0]; reviews=(10.0, 50.0]; score=(1.0, 2.0], 212
+free=1; ratings=(1000.0, 10000.0]; reviews=(100.0, 1000.0]; score=(1.0, 2.0], 211
+free=1; ratings=(1.0, 5.0]; reviews=(1.0, 5.0]; score=(1.0, 2.0], 210
+free=0; ratings=(5.0, 10.0]; reviews=(1.0, 5.0]; score=(3.0, 4.0], 202
+free=0; ratings=(10.0, 50.0]; reviews=(1.0, 5.0]; score=(2.0, 3.0], 199
+free=0; ratings=(100.0, 1000.0]; reviews=(100.0, 1000.0]; score=(3.0, 4.0], 195
+free=0; ratings=(50.0, 100.0]; reviews=(1.0, 5.0]; score=(3.0, 4.0], 187
+free=1; ratings=(50.0, 100.0]; reviews=(50.0, 100.0]; score=(4.0, 5.0], 181
+free=1; ratings=(10000.0, inf]; reviews=(10.0, 50.0]; score=(2.0, 3.0], 179
+free=1; ratings=(50.0, 100.0]; reviews=(50.0, 100.0]; score=(2.0, 3.0], 172
+free=0; ratings=(100.0, 1000.0]; reviews=(1.0, 5.0]; score=(3.0, 4.0], 164
+free=1; ratings=(1000.0, 10000.0]; reviews=(1000.0, 10000.0]; score=(2.0, 3.0], 161
+free=1; ratings=(10.0, 50.0]; reviews=(1.0, 5.0]; score=(-0.001, 1.0], 155
+free=1; ratings=(1000.0, 10000.0]; reviews=(1.0, 5.0]; score=(1.0, 2.0], 154
+free=0; ratings=(10.0, 50.0]; reviews=(5.0, 10.0]; score=(2.0, 3.0], 141
+free=0; ratings=(1000.0, 10000.0]; reviews=(10.0, 50.0]; score=(4.0, 5.0], 141
+free=1; ratings=(5.0, 10.0]; reviews=(-0.001, 1.0]; score=(2.0, 3.0], 141
+free=1; ratings=(100.0, 1000.0]; reviews=(1.0, 5.0]; score=(-0.001, 1.0], 122
+free=1; ratings=(1000.0, 10000.0]; reviews=(5.0, 10.0]; score=(1.0, 2.0], 122
+free=0; ratings=(1000.0, 10000.0]; reviews=(1000.0, 10000.0]; score=(4.0, 5.0], 112
+free=0; ratings=(5.0, 10.0]; reviews=(-0.001, 1.0]; score=(4.0, 5.0], 104
+free=1; ratings=(10000.0, inf]; reviews=(50.0, 100.0]; score=(2.0, 3.0], 99
+free=1; ratings=(50.0, 100.0]; reviews=(50.0, 100.0]; score=(3.0, 4.0], 99
+free=1; ratings=(1000.0, 10000.0]; reviews=(-0.001, 1.0]; score=(2.0, 3.0], 98
+free=0; ratings=(10000.0, inf]; reviews=(100.0, 1000.0]; score=(4.0, 5.0], 94
+free=1; ratings=(50.0, 100.0]; reviews=(50.0, 100.0]; score=(1.0, 2.0], 92
+free=0; ratings=(100.0, 1000.0]; reviews=(10.0, 50.0]; score=(2.0, 3.0], 92
+free=1; ratings=(5.0, 10.0]; reviews=(1.0, 5.0]; score=(-0.001, 1.0], 91
+free=1; ratings=(5.0, 10.0]; reviews=(5.0, 10.0]; score=(-0.001, 1.0], 86
+free=1; ratings=(10.0, 50.0]; reviews=(5.0, 10.0]; score=(-0.001, 1.0], 83
+free=0; ratings=(5.0, 10.0]; reviews=(5.0, 10.0]; score=(4.0, 5.0], 83
+free=0; ratings=(10.0, 50.0]; reviews=(-0.001, 1.0]; score=(3.0, 4.0], 81
+free=0; ratings=(10.0, 50.0]; reviews=(10.0, 50.0]; score=(2.0, 3.0], 79
+free=1; ratings=(10.0, 50.0]; reviews=(-0.001, 1.0]; score=(1.0, 2.0], 79
+free=1; ratings=(1000.0, 10000.0]; reviews=(50.0, 100.0]; score=(1.0, 2.0], 75
+free=0; ratings=(10000.0, inf]; reviews=(1000.0, 10000.0]; score=(3.0, 4.0], 74
+free=0; ratings=(1000.0, 10000.0]; reviews=(50.0, 100.0]; score=(3.0, 4.0], 71
+free=1; ratings=(50.0, 100.0]; reviews=(1.0, 5.0]; score=(-0.001, 1.0], 71
+free=0; ratings=(5.0, 10.0]; reviews=(1.0, 5.0]; score=(2.0, 3.0], 70
+free=0; ratings=(1000.0, 10000.0]; reviews=(10.0, 50.0]; score=(3.0, 4.0], 68
+free=1; ratings=(1.0, 5.0]; reviews=(-0.001, 1.0]; score=(2.0, 3.0], 67
+free=1; ratings=(1.0, 5.0]; reviews=(1.0, 5.0]; score=(-0.001, 1.0], 66
+free=0; ratings=(50.0, 100.0]; reviews=(10.0, 50.0]; score=(2.0, 3.0], 65
+free=1; ratings=(100.0, 1000.0]; reviews=(-0.001, 1.0]; score=(1.0, 2.0], 64
+free=1; ratings=(10000.0, inf]; reviews=(1.0, 5.0]; score=(2.0, 3.0], 63
+free=0; ratings=(1.0, 5.0]; reviews=(1.0, 5.0]; score=(4.0, 5.0], 61
+free=1; ratings=(100.0, 1000.0]; reviews=(5.0, 10.0]; score=(-0.001, 1.0], 57
+free=0; ratings=(50.0, 100.0]; reviews=(-0.001, 1.0]; score=(4.0, 5.0], 51
+free=1; ratings=(10000.0, inf]; reviews=(-0.001, 1.0]; score=(3.0, 4.0], 51
+free=0; ratings=(5.0, 10.0]; reviews=(5.0, 10.0]; score=(3.0, 4.0], 50
+free=1; ratings=(10000.0, inf]; reviews=(100.0, 1000.0]; score=(1.0, 2.0], 48
+free=0; ratings=(10000.0, inf]; reviews=(10000.0, inf]; score=(4.0, 5.0], 46
+free=1; ratings=(10000.0, inf]; reviews=(5.0, 10.0]; score=(2.0, 3.0], 45
+free=0; ratings=(50.0, 100.0]; reviews=(1.0, 5.0]; score=(2.0, 3.0], 45
+free=0; ratings=(10.0, 50.0]; reviews=(5.0, 10.0]; score=(1.0, 2.0], 44
+free=1; ratings=(10.0, 50.0]; reviews=(10.0, 50.0]; score=(-0.001, 1.0], 44
+free=1; ratings=(50.0, 100.0]; reviews=(-0.001, 1.0]; score=(1.0, 2.0], 41
+free=0; ratings=(1000.0, 10000.0]; reviews=(1000.0, 10000.0]; score=(3.0, 4.0], 41
+free=0; ratings=(50.0, 100.0]; reviews=(5.0, 10.0]; score=(2.0, 3.0], 40
+free=0; ratings=(1.0, 5.0]; reviews=(1.0, 5.0]; score=(3.0, 4.0], 39
+free=0; ratings=(100.0, 1000.0]; reviews=(1.0, 5.0]; score=(2.0, 3.0], 39
+free=1; ratings=(1000.0, 10000.0]; reviews=(1000.0, 10000.0]; score=(1.0, 2.0], 38
+free=0; ratings=(100.0, 1000.0]; reviews=(-0.001, 1.0]; score=(4.0, 5.0], 37
+free=0; ratings=(1000.0, 10000.0]; reviews=(100.0, 1000.0]; score=(2.0, 3.0], 36
+free=0; ratings=(100.0, 1000.0]; reviews=(50.0, 100.0]; score=(2.0, 3.0], 36
+free=0; ratings=(1000.0, 10000.0]; reviews=(5.0, 10.0]; score=(4.0, 5.0], 36
+free=0; ratings=(100.0, 1000.0]; reviews=(100.0, 1000.0]; score=(2.0, 3.0], 34
+free=0; ratings=(1000.0, 10000.0]; reviews=(1.0, 5.0]; score=(4.0, 5.0], 33
+free=0; ratings=(10.0, 50.0]; reviews=(1.0, 5.0]; score=(1.0, 2.0], 32
+free=1; ratings=(10000.0, inf]; reviews=(10000.0, inf]; score=(2.0, 3.0], 31
+free=0; ratings=(100.0, 1000.0]; reviews=(5.0, 10.0]; score=(2.0, 3.0], 31
+free=0; ratings=(10000.0, inf]; reviews=(100.0, 1000.0]; score=(3.0, 4.0], 31
+free=0; ratings=(5.0, 10.0]; reviews=(5.0, 10.0]; score=(2.0, 3.0], 29
+free=0; ratings=(50.0, 100.0]; reviews=(-0.001, 1.0]; score=(3.0, 4.0], 27
+free=0; ratings=(1.0, 5.0]; reviews=(1.0, 5.0]; score=(2.0, 3.0], 24
+free=1; ratings=(10000.0, inf]; reviews=(10.0, 50.0]; score=(1.0, 2.0], 23
+free=1; ratings=(10000.0, inf]; reviews=(1000.0, 10000.0]; score=(1.0, 2.0], 21
+free=0; ratings=(10.0, 50.0]; reviews=(10.0, 50.0]; score=(1.0, 2.0], 21
+free=0; ratings=(5.0, 10.0]; reviews=(1.0, 5.0]; score=(1.0, 2.0], 21
+free=1; ratings=(50.0, 100.0]; reviews=(5.0, 10.0]; score=(-0.001, 1.0], 20
+free=1; ratings=(5.0, 10.0]; reviews=(-0.001, 1.0]; score=(1.0, 2.0], 18
+free=0; ratings=(5.0, 10.0]; reviews=(5.0, 10.0]; score=(1.0, 2.0], 17
+free=0; ratings=(100.0, 1000.0]; reviews=(10.0, 50.0]; score=(1.0, 2.0], 16
+free=0; ratings=(1000.0, 10000.0]; reviews=(1.0, 5.0]; score=(3.0, 4.0], 15
+free=0; ratings=(5.0, 10.0]; reviews=(-0.001, 1.0]; score=(3.0, 4.0], 15
+free=0; ratings=(10.0, 50.0]; reviews=(-0.001, 1.0]; score=(2.0, 3.0], 13
+free=0; ratings=(50.0, 100.0]; reviews=(10.0, 50.0]; score=(1.0, 2.0], 13
+free=1; ratings=(50.0, 100.0]; reviews=(10.0, 50.0]; score=(-0.001, 1.0], 12
+free=1; ratings=(1000.0, 10000.0]; reviews=(1.0, 5.0]; score=(-0.001, 1.0], 12
+free=1; ratings=(100.0, 1000.0]; reviews=(10.0, 50.0]; score=(-0.001, 1.0], 12
+free=0; ratings=(1.0, 5.0]; reviews=(-0.001, 1.0]; score=(4.0, 5.0], 12
+free=0; ratings=(100.0, 1000.0]; reviews=(-0.001, 1.0]; score=(3.0, 4.0], 11
+free=0; ratings=(10000.0, inf]; reviews=(1000.0, 10000.0]; score=(2.0, 3.0], 11
+free=1; ratings=(1000.0, 10000.0]; reviews=(5.0, 10.0]; score=(-0.001, 1.0], 10
+free=0; ratings=(1000.0, 10000.0]; reviews=(5.0, 10.0]; score=(3.0, 4.0], 10
+free=0; ratings=(1.0, 5.0]; reviews=(1.0, 5.0]; score=(1.0, 2.0], 10
+free=0; ratings=(50.0, 100.0]; reviews=(1.0, 5.0]; score=(1.0, 2.0], 10
+free=1; ratings=(1000.0, 10000.0]; reviews=(-0.001, 1.0]; score=(1.0, 2.0], 9
+free=1; ratings=(10.0, 50.0]; reviews=(-0.001, 1.0]; score=(-0.001, 1.0], 9
+free=1; ratings=(10000.0, inf]; reviews=(1.0, 5.0]; score=(1.0, 2.0], 8
+free=0; ratings=(5.0, 10.0]; reviews=(1.0, 5.0]; score=(-0.001, 1.0], 8
+free=0; ratings=(50.0, 100.0]; reviews=(5.0, 10.0]; score=(1.0, 2.0], 8
+free=0; ratings=(1000.0, 10000.0]; reviews=(100.0, 1000.0]; score=(1.0, 2.0], 8
+free=0; ratings=(10.0, 50.0]; reviews=(1.0, 5.0]; score=(-0.001, 1.0], 7
+free=0; ratings=(1000.0, 10000.0]; reviews=(50.0, 100.0]; score=(2.0, 3.0], 7
+free=0; ratings=(10.0, 50.0]; reviews=(5.0, 10.0]; score=(-0.001, 1.0], 7
+free=0; ratings=(10000.0, inf]; reviews=(50.0, 100.0]; score=(4.0, 5.0], 7
+free=0; ratings=(10000.0, inf]; reviews=(10.0, 50.0]; score=(4.0, 5.0], 7
+free=1; ratings=(10000.0, inf]; reviews=(5.0, 10.0]; score=(1.0, 2.0], 7
+free=1; ratings=(100.0, 1000.0]; reviews=(-0.001, 1.0]; score=(-0.001, 1.0], 7
+free=0; ratings=(100.0, 1000.0]; reviews=(5.0, 10.0]; score=(1.0, 2.0], 6
+free=0; ratings=(50.0, 100.0]; reviews=(50.0, 100.0]; score=(3.0, 4.0], 6
+free=0; ratings=(1000.0, 10000.0]; reviews=(-0.001, 1.0]; score=(3.0, 4.0], 5
+free=0; ratings=(1000.0, 10000.0]; reviews=(1000.0, 10000.0]; score=(2.0, 3.0], 5
+free=0; ratings=(100.0, 1000.0]; reviews=(50.0, 100.0]; score=(1.0, 2.0], 5
+free=0; ratings=(1000.0, 10000.0]; reviews=(-0.001, 1.0]; score=(4.0, 5.0], 5
+free=0; ratings=(10000.0, inf]; reviews=(10000.0, inf]; score=(3.0, 4.0], 5
+free=0; ratings=(1.0, 5.0]; reviews=(1.0, 5.0]; score=(-0.001, 1.0], 5
+free=1; ratings=(10000.0, inf]; reviews=(-0.001, 1.0]; score=(2.0, 3.0], 5
+free=0; ratings=(1.0, 5.0]; reviews=(-0.001, 1.0]; score=(3.0, 4.0], 5
+free=1; ratings=(10000.0, inf]; reviews=(10000.0, inf]; score=(1.0, 2.0], 5
+free=0; ratings=(100.0, 1000.0]; reviews=(100.0, 1000.0]; score=(1.0, 2.0], 4
+free=1; ratings=(10000.0, inf]; reviews=(50.0, 100.0]; score=(1.0, 2.0], 4
+free=1; ratings=(50.0, 100.0]; reviews=(-0.001, 1.0]; score=(-0.001, 1.0], 4
+free=0; ratings=(50.0, 100.0]; reviews=(-0.001, 1.0]; score=(2.0, 3.0], 4
+free=0; ratings=(5.0, 10.0]; reviews=(-0.001, 1.0]; score=(2.0, 3.0], 3
+free=0; ratings=(1000.0, 10000.0]; reviews=(10.0, 50.0]; score=(2.0, 3.0], 3
+free=1; ratings=(1000.0, 10000.0]; reviews=(10.0, 50.0]; score=(-0.001, 1.0], 3
+free=0; ratings=(100.0, 1000.0]; reviews=(1.0, 5.0]; score=(-0.001, 1.0], 3
+free=0; ratings=(50.0, 100.0]; reviews=(50.0, 100.0]; score=(4.0, 5.0], 3
+free=1; ratings=(5.0, 10.0]; reviews=(-0.001, 1.0]; score=(-0.001, 1.0], 2
+free=1; ratings=(1.0, 5.0]; reviews=(5.0, 10.0]; score=(-0.001, 1.0], 2
+free=1; ratings=(10.0, 50.0]; reviews=(50.0, 100.0]; score=(4.0, 5.0], 2
+free=1; ratings=(1000.0, 10000.0]; reviews=(-0.001, 1.0]; score=(-0.001, 1.0], 2
+free=0; ratings=(50.0, 100.0]; reviews=(50.0, 100.0]; score=(2.0, 3.0], 2
+free=0; ratings=(10000.0, inf]; reviews=(10000.0, inf]; score=(2.0, 3.0], 2
+free=0; ratings=(100.0, 1000.0]; reviews=(1.0, 5.0]; score=(1.0, 2.0], 2
+free=0; ratings=(10000.0, inf]; reviews=(5.0, 10.0]; score=(4.0, 5.0], 2
+free=0; ratings=(1.0, 5.0]; reviews=(-0.001, 1.0]; score=(2.0, 3.0], 1
+free=1; ratings=(10000.0, inf]; reviews=(-0.001, 1.0]; score=(1.0, 2.0], 1
+free=0; ratings=(5.0, 10.0]; reviews=(5.0, 10.0]; score=(-0.001, 1.0], 1
+free=1; ratings=(1.0, 5.0]; reviews=(5.0, 10.0]; score=(1.0, 2.0], 1
+free=1; ratings=(5.0, 10.0]; reviews=(10.0, 50.0]; score=(1.0, 2.0], 1
+free=1; ratings=(100.0, 1000.0]; reviews=(100.0, 1000.0]; score=(-0.001, 1.0], 1
+free=1; ratings=(100.0, 1000.0]; reviews=(50.0, 100.0]; score=(-0.001, 1.0], 1
+free=0; ratings=(10000.0, inf]; reviews=(10.0, 50.0]; score=(3.0, 4.0], 1
+free=0; ratings=(10000.0, inf]; reviews=(5.0, 10.0]; score=(3.0, 4.0], 1
+free=0; ratings=(10000.0, inf]; reviews=(-0.001, 1.0]; score=(4.0, 5.0], 1
+free=1; ratings=(1.0, 5.0]; reviews=(-0.001, 1.0]; score=(1.0, 2.0], 1
+free=0; ratings=(1000.0, 10000.0]; reviews=(-0.001, 1.0]; score=(2.0, 3.0], 1
+free=0; ratings=(50.0, 100.0]; reviews=(1.0, 5.0]; score=(-0.001, 1.0], 1
+free=0; ratings=(1000.0, 10000.0]; reviews=(1.0, 5.0]; score=(1.0, 2.0], 1
+free=0; ratings=(1000.0, 10000.0]; reviews=(5.0, 10.0]; score=(2.0, 3.0], 1
+free=0; ratings=(1000.0, 10000.0]; reviews=(1.0, 5.0]; score=(2.0, 3.0], 1
+free=0; ratings=(10.0, 50.0]; reviews=(10.0, 50.0]; score=(-0.001, 1.0], 1
+free=0; ratings=(50.0, 100.0]; reviews=(10.0, 50.0]; score=(-0.001, 1.0], 1
+free=0; ratings=(50.0, 100.0]; reviews=(50.0, 100.0]; score=(1.0, 2.0], 1
+price=(-0.001, 1.0]; ratings=(-0.001, 1.0], 2946082
+price=(-0.001, 1.0]; ratings=(100.0, 1000.0], 154007
+price=(-0.001, 1.0]; ratings=(1000.0, 10000.0], 91684
+price=(-0.001, 1.0]; ratings=(10.0, 50.0], 73872
+price=(-0.001, 1.0]; ratings=(50.0, 100.0], 43696
+price=(-0.001, 1.0]; ratings=(10000.0, inf], 43165
+price=(1.0, 5.0]; ratings=(-0.001, 1.0], 42982
+price=(-0.001, 1.0]; ratings=(5.0, 10.0], 20928
+price=(5.0, 10.0]; ratings=(-0.001, 1.0], 9141
+price=(10.0, 50.0]; ratings=(-0.001, 1.0], 5164
+price=(-0.001, 1.0]; ratings=(1.0, 5.0], 4895
+price=(1.0, 5.0]; ratings=(100.0, 1000.0], 3811
+price=(1.0, 5.0]; ratings=(10.0, 50.0], 3234
+price=(1.0, 5.0]; ratings=(50.0, 100.0], 1680
+price=(1.0, 5.0]; ratings=(1000.0, 10000.0], 1331
+price=(100.0, inf]; ratings=(-0.001, 1.0], 820
+price=(5.0, 10.0]; ratings=(100.0, 1000.0], 757
+price=(50.0, 100.0]; ratings=(-0.001, 1.0], 675
+price=(1.0, 5.0]; ratings=(5.0, 10.0], 536
+price=(5.0, 10.0]; ratings=(10.0, 50.0], 473
+price=(5.0, 10.0]; ratings=(1000.0, 10000.0], 355
+price=(1.0, 5.0]; ratings=(10000.0, inf], 319
+price=(10.0, 50.0]; ratings=(100.0, 1000.0], 301
+price=(5.0, 10.0]; ratings=(50.0, 100.0], 269
+price=(10.0, 50.0]; ratings=(10.0, 50.0], 203
+price=(10.0, 50.0]; ratings=(1000.0, 10000.0], 123
+price=(5.0, 10.0]; ratings=(10000.0, inf], 100
+price=(5.0, 10.0]; ratings=(5.0, 10.0], 97
+price=(10.0, 50.0]; ratings=(50.0, 100.0], 92
+price=(1.0, 5.0]; ratings=(1.0, 5.0], 74
+price=(10.0, 50.0]; ratings=(5.0, 10.0], 42
+price=(10.0, 50.0]; ratings=(10000.0, inf], 31
+price=(50.0, 100.0]; ratings=(10.0, 50.0], 25
+price=(5.0, 10.0]; ratings=(1.0, 5.0], 17
+price=(50.0, 100.0]; ratings=(100.0, 1000.0], 13
+price=(10.0, 50.0]; ratings=(1.0, 5.0], 11
+price=(100.0, inf]; ratings=(100.0, 1000.0], 11
+price=(100.0, inf]; ratings=(1000.0, 10000.0], 10
+price=(50.0, 100.0]; ratings=(50.0, 100.0], 8
+price=(100.0, inf]; ratings=(10.0, 50.0], 6
+price=(100.0, inf]; ratings=(5.0, 10.0], 6
+price=(50.0, 100.0]; ratings=(1000.0, 10000.0], 5
+price=(100.0, inf]; ratings=(50.0, 100.0], 5
+price=(50.0, 100.0]; ratings=(5.0, 10.0], 4
+price=(50.0, 100.0]; ratings=(1.0, 5.0], 1
+price=(100.0, inf]; ratings=(1.0, 5.0], 1
+price=(100.0, inf]; ratings=(10000.0, inf], 1
+len screenshots=(-0.041, 4.0]; ratings=(-0.001, 1.0], 1125384
+len screenshots=(4.0, 8.0]; ratings=(-0.001, 1.0], 1115091
+len screenshots=(8.0, 12.0]; ratings=(-0.001, 1.0], 338516
+len screenshots=(12.0, 16.0]; ratings=(-0.001, 1.0], 181898
+len screenshots=(20.0, 24.0]; ratings=(-0.001, 1.0], 150854
+len screenshots=(16.0, 20.0]; ratings=(-0.001, 1.0], 91413
+len screenshots=(4.0, 8.0]; ratings=(100.0, 1000.0], 61430
+len screenshots=(4.0, 8.0]; ratings=(1000.0, 10000.0], 34975
+len screenshots=(-0.041, 4.0]; ratings=(100.0, 1000.0], 33566
+len screenshots=(4.0, 8.0]; ratings=(10.0, 50.0], 28755
+len screenshots=(-0.041, 4.0]; ratings=(10.0, 50.0], 23941
+len screenshots=(8.0, 12.0]; ratings=(100.0, 1000.0], 22246
+len screenshots=(12.0, 16.0]; ratings=(100.0, 1000.0], 18163
+len screenshots=(4.0, 8.0]; ratings=(50.0, 100.0], 17740
+len screenshots=(4.0, 8.0]; ratings=(10000.0, inf], 15418
+len screenshots=(20.0, 24.0]; ratings=(100.0, 1000.0], 14894
+len screenshots=(-0.041, 4.0]; ratings=(1000.0, 10000.0], 14683
+len screenshots=(8.0, 12.0]; ratings=(1000.0, 10000.0], 13098
+len screenshots=(12.0, 16.0]; ratings=(1000.0, 10000.0], 12496
+len screenshots=(20.0, 24.0]; ratings=(1000.0, 10000.0], 11890
+len screenshots=(-0.041, 4.0]; ratings=(50.0, 100.0], 11473
+len screenshots=(8.0, 12.0]; ratings=(10.0, 50.0], 10631
+len screenshots=(16.0, 20.0]; ratings=(100.0, 1000.0], 8524
+len screenshots=(20.0, 24.0]; ratings=(10000.0, inf], 8413
+len screenshots=(-0.041, 4.0]; ratings=(5.0, 10.0], 8348
+len screenshots=(4.0, 8.0]; ratings=(5.0, 10.0], 7318
+len screenshots=(12.0, 16.0]; ratings=(10.0, 50.0], 6862
+len screenshots=(12.0, 16.0]; ratings=(10000.0, inf], 6615
+len screenshots=(16.0, 20.0]; ratings=(1000.0, 10000.0], 6335
+len screenshots=(8.0, 12.0]; ratings=(50.0, 100.0], 6266
+len screenshots=(8.0, 12.0]; ratings=(10000.0, inf], 4978
+len screenshots=(12.0, 16.0]; ratings=(50.0, 100.0], 4683
+len screenshots=(20.0, 24.0]; ratings=(10.0, 50.0], 4550
+len screenshots=(16.0, 20.0]; ratings=(10000.0, inf], 4130
+len screenshots=(-0.041, 4.0]; ratings=(10000.0, inf], 4023
+len screenshots=(20.0, 24.0]; ratings=(50.0, 100.0], 3514
+len screenshots=(8.0, 12.0]; ratings=(5.0, 10.0], 3024
+len screenshots=(16.0, 20.0]; ratings=(10.0, 50.0], 2968
+len screenshots=(-0.041, 4.0]; ratings=(1.0, 5.0], 2157
+len screenshots=(16.0, 20.0]; ratings=(50.0, 100.0], 2028
+len screenshots=(4.0, 8.0]; ratings=(1.0, 5.0], 1580
+len screenshots=(12.0, 16.0]; ratings=(5.0, 10.0], 1514
+len screenshots=(28.0, 32.0]; ratings=(-0.001, 1.0], 1096
+len screenshots=(20.0, 24.0]; ratings=(5.0, 10.0], 840
+len screenshots=(8.0, 12.0]; ratings=(1.0, 5.0], 708
+len screenshots=(24.0, 28.0]; ratings=(-0.001, 1.0], 592
+len screenshots=(16.0, 20.0]; ratings=(5.0, 10.0], 563
+len screenshots=(12.0, 16.0]; ratings=(1.0, 5.0], 289
+len screenshots=(20.0, 24.0]; ratings=(1.0, 5.0], 139
+len screenshots=(16.0, 20.0]; ratings=(1.0, 5.0], 125
+len screenshots=(28.0, 32.0]; ratings=(10.0, 50.0], 67
+len screenshots=(28.0, 32.0]; ratings=(100.0, 1000.0], 43
+len screenshots=(24.0, 28.0]; ratings=(10.0, 50.0], 39
+len screenshots=(24.0, 28.0]; ratings=(100.0, 1000.0], 33
+len screenshots=(28.0, 32.0]; ratings=(50.0, 100.0], 25
+len screenshots=(24.0, 28.0]; ratings=(10000.0, inf], 22
+len screenshots=(24.0, 28.0]; ratings=(50.0, 100.0], 20
+len screenshots=(24.0, 28.0]; ratings=(1000.0, 10000.0], 16
+len screenshots=(28.0, 32.0]; ratings=(10000.0, inf], 16
+len screenshots=(28.0, 32.0]; ratings=(1000.0, 10000.0], 15
+len screenshots=(32.0, 36.0]; ratings=(-0.001, 1.0], 11
+len screenshots=(36.0, 40.0]; ratings=(-0.001, 1.0], 9
+len screenshots=(24.0, 28.0]; ratings=(5.0, 10.0], 4
+len screenshots=(28.0, 32.0]; ratings=(5.0, 10.0], 2
+len screenshots=(24.0, 28.0]; ratings=(1.0, 5.0], 1
+len screenshots=(32.0, 36.0]; ratings=(10000.0, inf], 1
+len screenshots=(36.0, 40.0]; ratings=(50.0, 100.0], 1
+len screenshots=(36.0, 40.0]; ratings=(100.0, 1000.0], 1
+free=1; reviews=(-0.001, 1.0], 2947661
+free=1; reviews=(1.0, 5.0], 124162
+free=1; reviews=(10.0, 50.0], 105894
+free=0; reviews=(-0.001, 1.0], 89397
+free=1; reviews=(5.0, 10.0], 69467
+free=1; reviews=(100.0, 1000.0], 49640
+free=1; reviews=(50.0, 100.0], 27807
+free=1; reviews=(1000.0, 10000.0], 15339
+free=0; reviews=(10.0, 50.0], 5390
+free=0; reviews=(1.0, 5.0], 4777
+free=1; reviews=(10000.0, inf], 3698
+free=0; reviews=(5.0, 10.0], 3551
+free=0; reviews=(100.0, 1000.0], 2268
+free=0; reviews=(50.0, 100.0], 1458
+free=0; reviews=(1000.0, 10000.0], 501
+free=0; reviews=(10000.0, inf], 53
+free=1; score=(-0.001, 1.0], 2916983
+free=1; score=(4.0, 5.0], 244308
+free=1; score=(3.0, 4.0], 132981
+free=0; score=(-0.001, 1.0], 88787
+free=1; score=(2.0, 3.0], 39504
+free=0; score=(4.0, 5.0], 12537
+free=1; score=(1.0, 2.0], 9892
+free=0; score=(3.0, 4.0], 4838
+free=0; score=(2.0, 3.0], 1014
+free=0; score=(1.0, 2.0], 219
+offersIAP=0; adSupported=0; containsAds=0, 1885209
+offersIAP=0; adSupported=1; containsAds=1, 1335241
+offersIAP=1; adSupported=1; containsAds=1, 163115
+offersIAP=1; adSupported=0; containsAds=0, 67498
+offersIAP=0; score=(-0.001, 1.0], 2879427
+offersIAP=0; score=(4.0, 5.0], 191873
+offersIAP=1; score=(-0.001, 1.0], 126343
+offersIAP=0; score=(3.0, 4.0], 106135
+offersIAP=1; score=(4.0, 5.0], 64972
+offersIAP=0; score=(2.0, 3.0], 34017
+offersIAP=1; score=(3.0, 4.0], 31684
+offersIAP=0; score=(1.0, 2.0], 8998
+offersIAP=1; score=(2.0, 3.0], 6501
+offersIAP=1; score=(1.0, 2.0], 1113
+offersIAP=0; minInstalls=100, 676785
+offersIAP=0; minInstalls=10, 542942
+offersIAP=0; minInstalls=1000, 503592
+offersIAP=0; minInstalls=50, 286937
+offersIAP=0; minInstalls=10000, 263529
+offersIAP=0; minInstalls=500, 261859
+offersIAP=0; minInstalls=5000, 160571
+offersIAP=0; minInstalls=5, 144637
+offersIAP=0; minInstalls=1, 135659
+offersIAP=0; minInstalls=100000, 93962
+offersIAP=0; minInstalls=50000, 69903
+offersIAP=1; minInstalls=10000, 36317
+offersIAP=1; minInstalls=1000, 35305
+offersIAP=0; minInstalls=0, 29848
+offersIAP=1; minInstalls=100000, 27968
+offersIAP=1; minInstalls=100, 24259
+offersIAP=0; minInstalls=1000000, 22491
+offersIAP=0; minInstalls=500000, 20320
+offersIAP=1; minInstalls=5000, 15848
+offersIAP=1; minInstalls=1000000, 15620
+offersIAP=1; minInstalls=10, 14525
+offersIAP=1; minInstalls=50000, 14289
+offersIAP=1; minInstalls=500, 12823
+offersIAP=1; minInstalls=500000, 9469
+offersIAP=1; minInstalls=50, 8351
+offersIAP=1; minInstalls=10000000, 4661
+offersIAP=1; minInstalls=5000000, 4015
+offersIAP=0; minInstalls=5000000, 3772
+offersIAP=1; minInstalls=5, 3062
+offersIAP=0; minInstalls=10000000, 2952
+offersIAP=1; minInstalls=1, 2521
+offersIAP=1; minInstalls=50000000, 679
+offersIAP=1; minInstalls=100000000, 460
+offersIAP=1; minInstalls=0, 379
+offersIAP=0; minInstalls=50000000, 337
+offersIAP=0; minInstalls=100000000, 243
+offersIAP=0; minInstalls=1000000000, 52
+offersIAP=0; minInstalls=500000000, 43
+offersIAP=1; minInstalls=500000000, 38
+offersIAP=1; minInstalls=1000000000, 21
+offersIAP=0; minInstalls=5000000000, 9
+offersIAP=0; minInstalls=10000000000, 7
+offersIAP=1; minInstalls=5000000000, 3
+releasedYear=2021; offersIAP=0, 675849
+releasedYear=2020; offersIAP=0, 657656
+releasedYear=2022; offersIAP=0, 556590
+releasedYear=2019; offersIAP=0, 484903
+releasedYear=2018; offersIAP=0, 276350
+releasedYear=2017; offersIAP=0, 199500
+releasedYear=2016; offersIAP=0, 132024
+releasedYear=2015; offersIAP=0, 93727
+releasedYear=2014; offersIAP=0, 64588
+releasedYear=2021; offersIAP=1, 41485
+releasedYear=2020; offersIAP=1, 40067
+releasedYear=2013; offersIAP=0, 38713
+releasedYear=2019; offersIAP=1, 30722
+releasedYear=2022; offersIAP=1, 30449
+releasedYear=2012; offersIAP=0, 23448
+releasedYear=2018; offersIAP=1, 22883
+releasedYear=2017; offersIAP=1, 19329
+releasedYear=2016; offersIAP=1, 13786
+releasedYear=2011; offersIAP=0, 13022
+releasedYear=2015; offersIAP=1, 11551
+releasedYear=2014; offersIAP=1, 8101
+releasedYear=2013; offersIAP=1, 6181
+releasedYear=2010; offersIAP=0, 3984
+releasedYear=2012; offersIAP=1, 3406
+releasedYear=2011; offersIAP=1, 1901
+releasedYear=2010; offersIAP=1, 743
+releasedYear=2009; offersIAP=0, 96
+releasedYear=2009; offersIAP=1, 9
+containsAds=0; ratings=(-0.001, 1.0], 1777814
+containsAds=1; ratings=(-0.001, 1.0], 1227050
+containsAds=1; ratings=(100.0, 1000.0], 105693
+containsAds=1; ratings=(1000.0, 10000.0], 66535
+containsAds=0; ratings=(100.0, 1000.0], 53207
+containsAds=0; ratings=(10.0, 50.0], 43104
+containsAds=1; ratings=(10.0, 50.0], 34709
+containsAds=1; ratings=(10000.0, inf], 31536
+containsAds=0; ratings=(1000.0, 10000.0], 26973
+containsAds=1; ratings=(50.0, 100.0], 26088
+containsAds=0; ratings=(50.0, 100.0], 19662
+containsAds=0; ratings=(5.0, 10.0], 15849
+containsAds=0; ratings=(10000.0, inf], 12080
+containsAds=1; ratings=(5.0, 10.0], 5764
+containsAds=0; ratings=(1.0, 5.0], 4018
+containsAds=1; ratings=(1.0, 5.0], 981
